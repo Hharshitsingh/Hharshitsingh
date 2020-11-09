@@ -34,6 +34,6 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&title_color=ff1800&icon_color=bb2acf&text_color=daf7dc&bg_color=151510">
+<img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&title_color=ff1800&icon_color=bb2acf&text_color=daf7dc&bg_color=000015">
 
 
