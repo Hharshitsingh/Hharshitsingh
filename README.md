@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Harshit  👋 </h1>
+<h1 align="center"> Hello, I'm Harshit Singh 👋 </h1>
 <p>
 -🌱 I’m currently learning more about Python and Robotics <br>
 -⚡ Fun fact: **I use 4 space!😂** </p>
