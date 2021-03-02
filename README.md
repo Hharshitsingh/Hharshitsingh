@@ -1,5 +1,7 @@
-### Hello, I'm Harshit  👋
+<h1 align="center"> Hello, I'm Harshit  👋 </h1>
+
 -🌱 I’m currently learning more about Python and Robotics 
+- ⚡ Fun fact: **I use 4 space!😂**
 <br>
 <p>-📫 How to reach me
 <p><a href="https://instagram.com/realharshitsingh/">
@@ -31,7 +33,7 @@
 
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&title_color=ff1800&icon_color=bb2acf&text_color=daf7dc&bg_color=000015">
