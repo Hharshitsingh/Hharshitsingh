@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Harshit Singh 👋 </h1>
-<p>
+
 -🌱 I’m currently learning more about Python and Robotics <br>
--⚡ Fun fact: **I use 4 space!😂** </p>
+-⚡ Fun fact: **I use 4 space!😂** 
 <br>
 <p>-📫 How to reach me
 <p><a href="https://instagram.com/realharshitsingh/">
