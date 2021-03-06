@@ -41,12 +41,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 <p align = "center">
+  <a href="https://github.com/Hharshitsingh target="_ blank">
 <img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&hide_border=true&theme=midnight-purple" >
+ </a>
 </p>
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&title_color=ff1800&icon_color=bb2acf&text_color=daf7dc&bg_color=000015"> -->
 <p align = "center">
+ <a href="https://github.com/Hharshitsingh target="_ blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hharshitsingh&hide_border=true&theme=chartreuse-dark&langs_count=10&layout=compact" />
+  </a>
 </p>
+
+
+
+
+
 <p align = "center">
 <!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh"> -->
 </p>
