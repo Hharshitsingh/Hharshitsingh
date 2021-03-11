@@ -35,9 +35,8 @@
 - 😄 Pronouns: ...
 
 -->
-
+  <h2 align = "center">Languages and Tools</h2><br/>
 <p align="center">
-  **Languages and Tools:**<br/>
    <a href="https://github.com/Hharshitsingh">
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
