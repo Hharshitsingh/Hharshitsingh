@@ -42,7 +42,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="python" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
+<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> -->
 </p>
 <p align = "center">
   <a href="https://github.com/Hharshitsingh">
