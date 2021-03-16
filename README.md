@@ -49,12 +49,12 @@
 </p>
 <p align = "center">
   <a href="https://github.com/Hharshitsingh">
-<img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&hide_border=true&theme=midnight-purple" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&hide_border=true&theme=great-gatsby&hide=stars,issues" >
  </a>
 </p>
 <p align = "center">
  <a href="https://github.com/Hharshitsingh">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hharshitsingh&hide_border=true&theme=chartreuse-dark&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hharshitsingh&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact" />
   </a>
 </p>
 
