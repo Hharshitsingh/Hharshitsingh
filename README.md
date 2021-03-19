@@ -1,4 +1,8 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  
+ <p align="center">
+   <a href="https://github.com/Hharshitsingh">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
+     </p>
 <h1 align="center"> Hello, I'm Harshit Singh 👋 </h1>
 
 -🌱 I’m currently learning more about Python and Robotics <br>
