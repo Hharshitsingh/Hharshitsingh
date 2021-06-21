@@ -65,15 +65,9 @@
 </p>
 
 
-
-
 <p align = "center">
-  <img src="https://wakatime.com/share/@harshitsingh/aa2ece7d-9f2f-4531-932a-90b714e3318a.svg" width="500" height="400">
-  
-</p>
-
-
-<p align = "center">
-<!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh"> -->
+ <a href="https://github.com/Hharshitsingh">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh"/>
+  </a>
 </p>
 
