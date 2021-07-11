@@ -9,19 +9,19 @@
 -⚡ Fun fact: **I use 4 space!😂** 
 <br>
 <p>-📫 How to reach me
-<p><a href="https://instagram.com/realharshitsingh/">
+<p><a href="https://instagram.com/realharshitsingh/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/realsinghharsh">
+<a href="https://twitter.com/realsinghharsh" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hharshitsingh/">
+<a href="https://www.linkedin.com/in/hharshitsingh/" target="_blank">
   <img align="left" alt="Linkkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Hharshitsingh">
+<a href="https://github.com/Hharshitsingh" target="_blank">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/realharshitsingh/">
+<a href="https://instagram.com/realharshitsingh/" target="_blank">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
   </p>
