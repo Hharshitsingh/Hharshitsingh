@@ -21,7 +21,7 @@
 <a href="https://github.com/Hharshitsingh" target="_blank">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/realharshitsingh/" target="_blank">
+<a href="https://www.facebook.com/h8harshitsingh" target="_blank">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
   </p>
