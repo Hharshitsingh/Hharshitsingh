@@ -27,15 +27,6 @@
   </p>
 <br>
 
-
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ..
--->
-
   <h2 align = "center">Languages and Tools</h2><br/>
 <p align="center">
    <a href="https://github.com/Hharshitsingh">
@@ -55,6 +46,14 @@
   
 <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> -->
 </p>
+  
+  <p align="center"><a href="https://github.com/Hharshitsingh"><img src="https://komarev.com/ghpvc/?username=hharshitsingh&label=Profile%20views&color=0e75b6&style=flat" alt="hharshitsingh" /> </p>
+
+<p align="center"> <a href="https://github.com/Hharshitsingh"><img src="https://github-profile-trophy.vercel.app/?username=hharshitsingh&title=Commit,Followers, PullRequest, Repositories&row=2&column=2&theme=juicyfresh&no-frame=true" alt="hharshitsingh" /></a> </p>
+
+<p align = "center"><a href="https://github.com/Hharshitsingh"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hharshitsingh&theme=great-gatsby&border=DDDDDD&stroke=DDDD1C&ring=DD4812" alt="hharshitsingh" /></p>
+
+
 <p align = "center">
   <a href="https://github.com/Hharshitsingh">
 <img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&hide_border=true&theme=great-gatsby&hide=stars,issues" >
@@ -69,7 +68,6 @@
 
 <p align = "center">
  <a href="https://github.com/Hharshitsingh">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh&theme=vision-friendly-dark"/>
   </a>
 </p>
-
