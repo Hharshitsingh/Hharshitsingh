@@ -53,7 +53,6 @@
 
 <p align = "center"><a href="https://github.com/Hharshitsingh"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hharshitsingh&theme=great-gatsby&border=DDDDDD&stroke=DDDD1C&ring=DD4812" alt="hharshitsingh" /></p>
 
-
 <p align = "center">
   <a href="https://github.com/Hharshitsingh">
 <img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&hide_border=true&theme=great-gatsby&hide=stars,issues" >
