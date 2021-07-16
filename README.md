@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/images/b86f72bdb13ba513ee24177a27112c8f/tenor.gif" width="600" height="300" />
 </p>
 
-<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Harshit Singh 👋 </h1>
+<h1 align="center"> नमस्ते (Namaste)🙏🏻 I'm Harshit Singh 👋 </h1>
 
 -🌱 I’m currently learning more about Python and Robotics <br>
 -⚡ Fun fact: **I use 4 space!😂** <br>
