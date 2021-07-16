@@ -1,14 +1,14 @@
   
 <p align="center">
   <a href="https://github.com/Hharshitsingh">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
-
+  <img src="https://media.tenor.com/images/b86f72bdb13ba513ee24177a27112c8f/tenor.gif" width="800" height="400" />
 </p>
 
-<h1 align="center"> Hello, I'm Harshit Singh 👋 </h1>
-
+<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Harshit Singh 👋 </h1>
+<div>
 -🌱 I’m currently learning more about Python and Robotics <br>
 -⚡ Fun fact: **I use 4 space!😂** <br>
+</div>
 
 <p>-📫 How to reach me
 
@@ -37,6 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
 </p>
   
 <p align="center"><a href="https://github.com/Hharshitsingh"><img src="https://komarev.com/ghpvc/?username=hharshitsingh&label=Profile%20views&color=0e75b6&style=flat" alt="hharshitsingh" /> </p>
