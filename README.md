@@ -5,10 +5,10 @@
 </p>
 
 <h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Harshit Singh 👋 </h1>
-<div>
+
 -🌱 I’m currently learning more about Python and Robotics <br>
 -⚡ Fun fact: **I use 4 space!😂** <br>
-</div>
+
 
 <p>-📫 How to reach me
 
