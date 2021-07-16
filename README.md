@@ -1,7 +1,7 @@
   
 <p align="center">
   <a href="https://github.com/Hharshitsingh">
-  <img src="https://media.tenor.com/images/b86f72bdb13ba513ee24177a27112c8f/tenor.gif" width="800" height="400" />
+  <img src="https://media.tenor.com/images/b86f72bdb13ba513ee24177a27112c8f/tenor.gif" width="600" height="300" />
 </p>
 
 <h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Harshit Singh 👋 </h1>
