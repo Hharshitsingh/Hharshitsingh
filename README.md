@@ -57,3 +57,7 @@
 <p align = "center">
   <a href="https://github.com/Hharshitsingh"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh&theme=vision-friendly-dark"/>
 </p>
+  
+<!--   <p align = "center">
+  <a href="https://open.spotify.com/user/31khg6ffdhshzep5hle6kx6wzpyu"><img src="https://novatorem-hharshitsingh.vercel.app/api/spotify"/>
+</p> -->
