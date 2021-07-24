@@ -1,14 +1,14 @@
   
 <p align="center">
   <a href="https://github.com/Hharshitsingh">
-  <img src="https://media.tenor.com/images/b86f72bdb13ba513ee24177a27112c8f/tenor.gif" width="800" height="400" />
+  <img src="https://media.tenor.com/images/b86f72bdb13ba513ee24177a27112c8f/tenor.gif" width="600" height="250" />
 </p>
 
-<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Harshit Singh 👋 </h1>
-<div>
+<h1 align="center"> नमस्ते (Namaste)🙏🏻 I'm Harshit Singh 👋 </h1>
+
 -🌱 I’m currently learning more about Python and Robotics <br>
 -⚡ Fun fact: **I use 4 space!😂** <br>
-</div>
+
 
 <p>-📫 How to reach me
 
@@ -57,6 +57,13 @@
 <p align = "center">
   <a href="https://github.com/Hharshitsingh"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh&theme=vision-friendly-dark"/>
 </p>
+<<<<<<< HEAD
 
 <p align = "center">
 <a href="https://github.com/Hharshitsingh"><img src = "https://activity-graph.herokuapp.com/graph?username=Hharshitsingh&bg_color=000000&color=4ffff7&line=4fffff&point=ffffff&area=true&hide_border=true">
+=======
+  
+<!--   <p align = "center">
+  <a href="https://open.spotify.com/user/31khg6ffdhshzep5hle6kx6wzpyu"><img src="https://novatorem-hharshitsingh.vercel.app/api/spotify"/>
+</p> -->
+>>>>>>> 174625e6b6312a16ea8c6ec40b8add1558082f75
