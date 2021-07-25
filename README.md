@@ -61,6 +61,3 @@
 <p align = "center">
 <a href="https://github.com/Hharshitsingh"><img src = "https://activity-graph.herokuapp.com/graph?username=Hharshitsingh&bg_color=000000&color=4ffff7&line=4fffff&point=ffffff&area=true&hide_border=true">
   
-<!--   <p align = "center">
-  <a href="https://open.spotify.com/user/31khg6ffdhshzep5hle6kx6wzpyu"><img src="https://novatorem-hharshitsingh.vercel.app/api/spotify"/>
-</p> -->
