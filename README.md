@@ -39,7 +39,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 </p>
-  
+
 <p align="center"><a href="https://github.com/Hharshitsingh"><img src="https://komarev.com/ghpvc/?username=hharshitsingh&label=Profile%20views&color=FF5733&style=flat" alt="hharshitsingh" /> </p>
 
 <p align="center"> <a href="https://github.com/Hharshitsingh"><img src="https://github-profile-trophy.vercel.app/?username=hharshitsingh&title=Commit,Followers, PullRequest, Repositories&row=2&column=2&theme=juicyfresh&no-frame=true" alt="hharshitsingh" /></a> </p>
@@ -61,7 +61,4 @@
 <p align = "center">
 <a href="https://github.com/Hharshitsingh"><img src = "https://activity-graph.herokuapp.com/graph?username=Hharshitsingh&bg_color=000000&color=4ffff7&line=4fffff&point=ffffff&area=true&hide_border=true">
   
-  
-  
-  
-  
+ 
