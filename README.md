@@ -13,7 +13,7 @@
 <p>-📫 How to reach me
 
 <a href="https://instagram.com/h8harshitsingh"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<a href="https://twitter.com/h8harshitsingh"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/hharshitsingh"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <a href="https://www.linkedin.com/in/hharshitsingh"><img align="left" alt="Linkkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://github.com/Hharshitsingh"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <a href="https://www.facebook.com/h8harshitsingh"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
