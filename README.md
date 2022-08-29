@@ -37,12 +37,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
 </p>
 
 <p align="center"><a href="https://github.com/Hharshitsingh"><img src="https://komarev.com/ghpvc/?username=hharshitsingh&label=Profile%20views&color=FF5733&style=flat" alt="hharshitsingh" /> </p>
 
-<p align="center"> <a href="https://github.com/Hharshitsingh"><img src="https://github-profile-trophy.vercel.app/?username=hharshitsingh&title=Commit,Followers, PullRequest, Repositories&row=2&column=2&theme=juicyfresh&no-frame=true" alt="hharshitsingh" /></a> </p>
+<p align="center"> <a href="https://github.com/Hharshitsingh"><img src="https://github-profile-trophy.vercel.app/?username=hharshitsingh&row=2&column=2&theme=juicyfresh&no-frame=true" alt="hharshitsingh" /></a> </p>
+
+<p align = "center">
+  <a href="https://github.com/Hharshitsingh"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh&theme=vision-friendly-dark"/>
+</p>
 
 <p align = "center"><a href="https://github.com/Hharshitsingh"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hharshitsingh&theme=great-gatsby&border=DDDDDD&stroke=DDDD1C&ring=DD4812" alt="hharshitsingh" /></p>
 
@@ -54,7 +57,5 @@
   <a href="https://github.com/Hharshitsingh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hharshitsingh&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact" />
 </p>
 
-<p align = "center">
-  <a href="https://github.com/Hharshitsingh"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh&theme=vision-friendly-dark"/>
-</p>
+
  
