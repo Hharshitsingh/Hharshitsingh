@@ -6,7 +6,6 @@
 
 <h1 align="center"> नमस्ते (Namaste)🙏🏻 I'm Harshit Singh 👋 </h1>
 
--🌱 I’m currently learning more about Python and Robotics <br>
 -⚡ Fun fact: **I use 4 space!😂** <br>
 
 
@@ -25,21 +24,34 @@
 <p align="center">
   <a href="https://github.com/Hharshitsingh">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt=""VS Code width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p align="center"><a href="https://github.com/Hharshitsingh"><img src="https://komarev.com/ghpvc/?username=hharshitsingh&label=Profile%20views&color=FF5733&style=flat" alt="hharshitsingh" /> </p>
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="python" width="40" height="40"/>  
+</p>
+
+<p align="center"><a href="https://github.com/Hharshitsingh"><img src="https://komarev.com/ghpvc/?username=hharshitsingh&label=Profile%20views&color=FF5733&style=flat" alt="hharshitsingh" /> 
+<a href="https://wakatime.com/@6f9b0520-a220-4bc0-aaf3-470cf456d397"><img src="https://wakatime.com/badge/user/6f9b0520-a220-4bc0-aaf3-470cf456d397.svg" alt="Total time coded since Mar 6 2021" /></a>
+</p>
 
 <p align="center"> <a href="https://github.com/Hharshitsingh"><img src="https://github-profile-trophy.vercel.app/?username=hharshitsingh&row=2&column=2&theme=juicyfresh&no-frame=true" alt="hharshitsingh" /></a> </p>
 
