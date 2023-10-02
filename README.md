@@ -1,9 +1,4 @@
   
-<p align="center">
-  <a href="https://github.com/Hharshitsingh">
-  <img src="https://media.tenor.com/images/b86f72bdb13ba513ee24177a27112c8f/tenor.gif" width="600" height="250" />
-</p>
-
 <h1 align="center"> नमस्ते (Namaste)🙏🏻 I'm Harshit Singh 👋 </h1>
 
 -⚡ Fun fact: **I use 4 space!😂** <br>
@@ -53,21 +48,8 @@
 <a href="https://wakatime.com/@6f9b0520-a220-4bc0-aaf3-470cf456d397"><img src="https://wakatime.com/badge/user/6f9b0520-a220-4bc0-aaf3-470cf456d397.svg" alt="Total time coded since Mar 6 2021" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/Hharshitsingh"><img src="https://github-profile-trophy.vercel.app/?username=hharshitsingh&row=2&column=2&theme=juicyfresh&no-frame=true" alt="hharshitsingh" /></a> </p>
 
 <p align = "center">
   <a href="https://github.com/Hharshitsingh"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsingh&theme=vision-friendly-dark"/>
 </p>
 
-<p align = "center"><a href="https://github.com/Hharshitsingh"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hharshitsingh&theme=great-gatsby&border=DDDDDD&stroke=DDDD1C&ring=DD4812" alt="hharshitsingh" /></p>
-
-<p align = "center">
-  <a href="https://github.com/Hharshitsingh"><img src = "https://github-readme-stats.vercel.app/api?username=Hharshitsingh&&show_icons=true&hide_border=true&theme=great-gatsby&hide=stars,issues" >
-</p>
-
-<p align = "center">
-  <a href="https://github.com/Hharshitsingh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hharshitsingh&hide_border=true&theme=vision-friendly-dark&langs_count=10&layout=compact" />
-</p>
-
-
- 
